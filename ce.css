@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color:azure;
+}
+table,th{
+    margin: auto;
+    background-color:whitesmoke;
+    border: 2px solid;
+    padding: 10px;
+}

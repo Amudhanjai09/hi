@@ -1,0 +1,11 @@
+body{
+    text-align: center; 
+    background-color: lightsteelblue;  
+}
+table,th{
+    border: 2px solid rgb(0, 0, 0);
+  background-color: rgb(107, 184, 209);
+    margin: auto;
+    padding: 30px;
+
+}

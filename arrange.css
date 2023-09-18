@@ -1,0 +1,22 @@
+table,tr,th{
+   text-align: center;
+    color:rgb(0, 0, 0);
+margin: auto;
+border: 2px solid rgb(255, 253, 253);
+background-color:lightblue;
+
+    
+}
+
+table,tr,td{
+  
+    color: rgb(0, 0, 0);
+   text-align: center;
+   padding: 10px;
+   width: 70%;
+
+
+}
+body{
+    background-color:darkturquoise;
+}

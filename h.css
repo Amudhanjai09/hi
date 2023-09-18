@@ -1,0 +1,48 @@
+
+ul{
+    list-style-type:none;
+    
+ 
+  
+}
+h1{
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+    color:#f50000;
+    padding: 20px;
+    margin: -10px;
+    
+   
+
+}
+li{
+ 
+   float:right;
+   background-color:transparent;
+margin-top: -30px;
+margin-right: -10px;
+
+
+
+   
+}
+li a{
+    display: block;
+    padding: 20px;
+    color:#000000;
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+  
+   
+    
+    
+}
+li a:hover{
+    color: red;
+}
+body{
+
+    background-image: url(f.webp);
+   
+
+}
